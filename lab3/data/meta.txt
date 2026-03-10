@@ -1,0 +1,8 @@
+B1-1.dat
+part 1 b; 50 degree square wave; proportional controller; kP = 1.0; f = 1 Hz
+
+B1-2.dat
+part 1 b; 50 degree square wave; proportional controller; kP = 0.1; f = 1 Hz
+
+B1-3.dat
+part 1 b; 50 degree square wave; proportional controller; kP = 10; f = 1 Hz
